@@ -2,7 +2,6 @@
 
 # Activate Conda environment
 echo "Activating Conda environment: ffcv"
-source ~/anaconda3/etc/profile.d/conda.sh  # 替换为你的 Conda 安装路径
 conda activate ffcv
 
 # batch execution
